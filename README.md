@@ -14,9 +14,9 @@
         pip install -r requirements.txt
         ```
     - Cần cài gói en_core_web_sm của Spacy để chạy được NER:
-    ```
-    python -m spacy download en_core_web_sm
-    ```
+        ```
+        python -m spacy download en_core_web_sm
+        ```
     Hoặc cài theo hướng dẫn tại đường link: https://realpython.com/natural-language-processing-spacy-python/#lemmatization
 4. **Dữ liệu**
     - Đảm bảo phải có Data để chạy chương trình bao gồm:
